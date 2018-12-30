@@ -54,4 +54,19 @@
                 <img src="03_absolute_solution.png" alt="03 absolute solution" width="70%">
         </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle" colspan=2>
+            <h3>4. Absolute 2</h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle">
+                <h5>Aim</h5>
+                <img src="04_absolute_2_aim.png" alt="04 absolute 2 aim" width="70%">
+        </td>
+        <td align="center" valign="middle">
+                <h5>Code</h5>
+                <img src="04_absolute_2_solution.png" alt="04 absolute 2 solution" width="70%">
+        </td>
+    </tr>
 </table>
