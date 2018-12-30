@@ -9,4 +9,19 @@
             <img src="the_hackpad_intro.png" alt="The Hackpad Intro" width="70%">
         </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle" colspan=2>
+            <h3>1. Increment Me</h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle">
+                <h5>Aim</h5>
+                <img src="01_increment_me_aim.png" alt="01 increment me aim" width="70%">
+        </td>
+        <td align="center" valign="middle">
+                <h5>Code</h5>
+                <img src="01_increment_me_solution.png" alt="01 increment me solution" width="70%">
+        </td>
+    </tr>
 </table>
