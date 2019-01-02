@@ -39,4 +39,19 @@
                 <img src="02_power_2_solution.png" alt="02 power 2 solution" width="70%">
         </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle" colspan=2>
+            <h3>3. Length</h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle">
+                <h5>Aim</h5>
+                <img src="03_length_aim.png" alt="03 length aim" width="70%">
+        </td>
+        <td align="center" valign="middle">
+                <h5>Code</h5>
+                <img src="03_length_solution.png" alt="03 length solution" width="70%">
+        </td>
+    </tr>
 </table>
