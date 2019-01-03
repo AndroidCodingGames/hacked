@@ -54,4 +54,19 @@
                 <img src="03_length_solution.png" alt="03 length solution" width="70%">
         </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle" colspan=2>
+            <h3>4. Push It</h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle">
+                <h5>Aim</h5>
+                <img src="04_push_it_aim.png" alt="04 push it aim" width="70%">
+        </td>
+        <td align="center" valign="middle">
+                <h5>Code</h5>
+                <img src="04_push_it_solution.png" alt="04 push it solution" width="70%">
+        </td>
+    </tr>
 </table>
