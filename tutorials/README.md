@@ -14,4 +14,9 @@
         <td align="center" valign="middle"> <img src="tut_08.png" alt="abs function"> </td>
         <td align="center" valign="middle"> <img src="tut_09.png" alt="while / variables"> </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle"> <img src="tut_10.png" alt="while loop"> </td>
+        <td align="center" valign="middle"> <img src="tut_11.png" alt="Incr/Decr keys"> </td>
+        <td align="center" valign="middle"> <img src="tut_12.png" alt="true / false keys"> </td>
+    </tr>
 </table>
