@@ -39,4 +39,19 @@
                 <img src="02_maxxxx_solution.png" alt="02 maxxxx solution" width="70%">
         </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle" colspan=2>
+            <h3>3. This is odd</h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle">
+                <h5>Aim</h5>
+                <img src="03_this_is_odd_aim.png" alt="03 this is odd aim" width="70%">
+        </td>
+        <td align="center" valign="middle">
+                <h5>Code</h5>
+                <img src="03_this_is_odd_solution.png" alt="03 this is odd solution" width="70%">
+        </td>
+    </tr>
 </table>
