@@ -54,4 +54,19 @@
                 <img src="03_this_is_odd_solution.png" alt="03 this is odd solution" width="70%">
         </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle" colspan=2>
+            <h3>4. A Man A Plan A Canal Panama</h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle">
+                <h5>Aim</h5>
+                <img src="04_a_man_a_plan_a_canal_panama_aim.png" alt="04 a man a plan a canal panama aim" width="70%">
+        </td>
+        <td align="center" valign="middle">
+                <h5>Code</h5>
+                <img src="04_a_man_a_plan_a_canal_panama_solution.png" alt="04 a man a plan a canal panama solution" width="70%">
+        </td>
+    </tr>
 </table>
