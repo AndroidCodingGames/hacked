@@ -19,4 +19,9 @@
         <td align="center" valign="middle"> <img src="tut_11.png" alt="Incr/Decr keys"> </td>
         <td align="center" valign="middle"> <img src="tut_12.png" alt="true / false keys"> </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle"> <img src="tut_13.png" alt="pow function"> </td>
+        <td align="center" valign="middle"> <img src="tut_14.png" alt="foreach, in keys"> </td>
+        <td align="center" valign="middle"> <img src="tut_15.png" alt="length key"> </td>
+    </tr>
 </table>
