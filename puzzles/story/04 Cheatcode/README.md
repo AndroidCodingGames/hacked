@@ -9,4 +9,19 @@
             <img src="cheatcode.png" alt="cheatcode" width="70%">
         </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle" colspan=2>
+            <h3>1. Bring Some Order</h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle">
+                <h5>Aim</h5>
+                <img src="01_bring_some_order_aim.png" alt="01 bring some order aim" width="70%">
+        </td>
+        <td align="center" valign="middle">
+                <h5>Code</h5>
+                <img src="01_bring_some_order_solution.png" alt="01 bring some order solution" width="70%">
+        </td>
+    </tr>
 </table>
