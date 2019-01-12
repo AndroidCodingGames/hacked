@@ -24,4 +24,9 @@
         <td align="center" valign="middle"> <img src="tut_14.png" alt="foreach, in keys"> </td>
         <td align="center" valign="middle"> <img src="tut_15.png" alt="length key"> </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle"> <img src="tut_16.png" alt="new keys + push"> </td>
+        <td align="center" valign="middle"> <img src="tut_17.png" alt="pop function"> </td>
+        <td align="center" valign="middle"> <img src="tut_18.png" alt="max, min function"> </td>
+    </tr>
 </table>
