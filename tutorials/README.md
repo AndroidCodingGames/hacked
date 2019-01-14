@@ -29,4 +29,9 @@
         <td align="center" valign="middle"> <img src="tut_17.png" alt="pop function"> </td>
         <td align="center" valign="middle"> <img src="tut_18.png" alt="max, min function"> </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle"> <img src="tut_19.png" alt="mod"> </td>
+        <td align="center" valign="middle"> <img src="tut_20.png" alt="a-z"> </td>
+        <td align="center" valign="middle"> <img src="tut_21.png" alt="insert, remove"> </td>
+    </tr>
 </table>
