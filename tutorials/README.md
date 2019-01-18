@@ -34,4 +34,9 @@
         <td align="center" valign="middle"> <img src="tut_20.png" alt="a-z"> </td>
         <td align="center" valign="middle"> <img src="tut_21.png" alt="insert, remove"> </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle"> <img src="tut_22.png" alt="sort_with"> </td>
+        <td align="center" valign="middle"> <img src="tut_23.png" alt="map"> </td>
+        <td align="center" valign="middle"> <img src="tut_24.png" alt="function"> </td>
+    </tr>
 </table>
