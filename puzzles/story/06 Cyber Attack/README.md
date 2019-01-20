@@ -9,4 +9,19 @@
             <img src="cyber_attack.png" alt="cyber attack" width="70%">
         </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle" colspan=2>
+            <h3>1. Complete</h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle">
+                <h5>Aim</h5>
+                <img src="01_complete_aim.png" alt="01 complete aim" width="70%">
+        </td>
+        <td align="center" valign="middle">
+                <h5>Code</h5>
+                <img src="01_complete_solution.png" alt="01 complete solution" width="70%">
+        </td>
+    </tr>
 </table>
