@@ -24,4 +24,19 @@
                 <img src="01_complete_solution.png" alt="01 complete solution" width="70%">
         </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle" colspan=2>
+            <h3>2. Match</h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle">
+                <h5>Aim</h5>
+                <img src="02_match_aim.png" alt="02 match aim" width="70%">
+        </td>
+        <td align="center" valign="middle">
+                <h5>Code</h5>
+                <img src="02_match_solution.png" alt="02 match solution" width="70%">
+        </td>
+    </tr>
 </table>
