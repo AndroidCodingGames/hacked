@@ -39,4 +39,8 @@
         <td align="center" valign="middle"> <img src="tut_23.png" alt="map"> </td>
         <td align="center" valign="middle"> <img src="tut_24.png" alt="function"> </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle"> <img src="tut_25.png" alt="its_list"> </td>
+        <td align="center" valign="middle"> <img src="tut_26.png" alt="draw"> </td>
+    </tr>
 </table>
