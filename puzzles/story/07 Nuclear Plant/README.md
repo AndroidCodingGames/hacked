@@ -39,4 +39,19 @@
                 <img src="02_positivity_solution.png" alt="02 positivity solution" width="70%">
         </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle" colspan=2>
+            <h3>3. Nearest to 0.0</h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle">
+                <h5>Aim</h5>
+                <img src="03_nearest_to_0.0_aim.png" alt="03 nearest to 0.0 aim" width="70%">
+        </td>
+        <td align="center" valign="middle">
+                <h5>Code</h5>
+                <img src="03_nearest_to_0.0_solution.png" alt="03 nearest to 0.0 solution" width="70%">
+        </td>
+    </tr>
 </table>
