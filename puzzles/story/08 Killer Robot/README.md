@@ -24,4 +24,19 @@
                 <img src="01_addition_solution.png" alt="01 addition solution" width="70%">
         </td>
     </tr>
+    <tr>
+        <td align="center" valign="middle" colspan=2>
+            <h3>2. Match 2</h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle">
+                <h5>Aim</h5>
+                <img src="02_match_2_aim.png" alt="02 match 2 aim" width="70%">
+        </td>
+        <td align="center" valign="middle">
+                <h5>Code</h5>
+                <img src="02_match_2_solution.png" alt="02 match 2 solution" width="70%">
+        </td>
+    </tr>
 </table>
