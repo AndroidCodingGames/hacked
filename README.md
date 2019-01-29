@@ -13,16 +13,16 @@ Are you a developer? Do you like coding? Then you're going to love Hacked.
 
 The game can be played in three very different modes :
 
-* Puzzles *
+* Puzzles
 
     In the story mode, you play the role of a hacker where you need to solve code problems to save the world.
     Once you're done, there's more puzzle packs waiting for you!
 
-* Robot (experimental mode) *
+* Robot (experimental mode)
 
     Code the AI of a robot.
 
-* Games *
+* Games
 
     The game mode is the most versatile mode, in this mode, you can create your own game, publish it, and play other hackers' games!
 
