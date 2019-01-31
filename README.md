@@ -5,6 +5,7 @@
 Download game from [Google Play Store](https://play.google.com/store/apps/details?id=com.hackedapp&hl=en_US "Google Play")
 
 <img src="img/start_screen.JPG" width="20%">
+<img src="img/story_end.png" width="20%">
 
 <hr>
 <tt>Description on play store:</tt>
